@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube 产品短视频剪辑"
+  short_description: "按产品介绍 SOP 选段剪辑，重排意大利语字幕并输出成片与封面"
+  default_prompt: "使用 $youtube-product-short，将我提供的产品视频剪成 3 分钟以内，配意大利语字幕，并输出 1280×720 的 KOL 手持产品封面。"

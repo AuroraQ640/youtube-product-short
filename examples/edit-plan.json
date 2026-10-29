@@ -1,0 +1,8 @@
+{
+  "fps": 30,
+  "speed": 1.15,
+  "segments": [
+    {"start": 0.0, "end": 5.0, "label": "产品介绍"},
+    {"start": 10.0, "end": 15.0, "label": "实测与总结"}
+  ]
+}
